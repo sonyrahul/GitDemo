@@ -17,8 +17,10 @@ public class Introduction {
 	}
 	@Test
 	public void getdata() {
-		driver.get("https://rahulshettyacademy.com/client");
 		driver.manage().window().maximize();
+		driver.get("https://rahulshettyacademy.com/client");
+		System.out.println("Hello Git Babu");
+		
 
 	}
 	
