@@ -20,6 +20,10 @@ public class Introduction {
 		driver.manage().window().maximize();
 		driver.get("https://rahulshettyacademy.com/client");
 		System.out.println("Hello Git Babu");
+		System.out.println("Rahul Sony");
+		System.out.println("Rahul");
+		System.out.println("Rahul Kumar");
+
 		
 
 	}
