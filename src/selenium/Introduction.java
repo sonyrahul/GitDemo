@@ -21,6 +21,8 @@ public class Introduction {
 		driver.get("https://rahulshettyacademy.com/client");
 		driver.manage().window().maximize();
 		System.out.println("Rahul Sony");
+		System.out.println("Rahul");
+		System.out.println("Rahul 123");
 
 
 	}
