@@ -20,6 +20,7 @@ public class Introduction {
 		
 		driver.get("https://rahulshettyacademy.com/client");
 		driver.manage().window().maximize();
+		System.out.println("Rahul Sony");
 
 
 	}
