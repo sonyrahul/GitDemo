@@ -33,7 +33,14 @@ public class Introduction {
 		
 		driver.get("https://google.com");
 		System.out.println("Rat mein bnaunga main roti");
-		driver.close();
+
+	}
+	@Test
+	public void Newgoogle() {
+		// TODO Auto-generated method stub
+		
+		driver.get("https://google.com");
+		System.out.println("New Google");
 
 	}
 	
