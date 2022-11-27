@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-26T22:40:43 IST" name="Default suite" finished-at="2022-11-26T22:40:57 IST" duration-ms="13531">
+  <suite started-at="2022-11-27T11:57:34 IST" name="Default suite" finished-at="2022-11-27T11:57:50 IST" duration-ms="16124">
     <groups>
     </groups>
-    <test started-at="2022-11-26T22:40:43 IST" name="Default test" finished-at="2022-11-26T22:40:57 IST" duration-ms="13531">
-      <class name="selenium.Introduction">
-        <test-method is-config="true" signature="chrome()[pri:0, instance:selenium.Introduction@54e1c68b]" started-at="2022-11-26T22:40:44 IST" name="chrome" finished-at="2022-11-26T22:40:52 IST" duration-ms="8612" status="PASS">
+    <test started-at="2022-11-27T11:57:34 IST" name="Default test" finished-at="2022-11-27T11:57:50 IST" duration-ms="16124">
+      <class name="selenium.google">
+        <test-method signature="google()[pri:0, instance:selenium.google@55634720]" started-at="2022-11-27T11:57:34 IST" name="google" finished-at="2022-11-27T11:57:45 IST" duration-ms="10549" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- chrome -->
-        <test-method signature="getdata()[pri:0, instance:selenium.Introduction@54e1c68b]" started-at="2022-11-26T22:40:52 IST" name="getdata" finished-at="2022-11-26T22:40:56 IST" duration-ms="4060" status="PASS">
+        </test-method> <!-- google -->
+        <test-method signature="rahul()[pri:0, instance:selenium.google@55634720]" started-at="2022-11-27T11:57:45 IST" name="rahul" finished-at="2022-11-27T11:57:50 IST" duration-ms="5486" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getdata -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium.Introduction@54e1c68b]" started-at="2022-11-26T22:40:56 IST" name="tearDown" finished-at="2022-11-26T22:40:57 IST" duration-ms="731" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- selenium.Introduction -->
+        </test-method> <!-- rahul -->
+      </class> <!-- selenium.google -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

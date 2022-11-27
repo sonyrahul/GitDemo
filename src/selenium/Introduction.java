@@ -27,6 +27,16 @@ public class Introduction {
 
 	}
 	
+	@Test
+	public void google() {
+		// TODO Auto-generated method stub
+		
+		driver.get("https://google.com");
+		System.out.println("Rat mein bnaunga main roti");
+		driver.close();
+
+	}
+	
 	@AfterMethod
 	public void tearDown()
 	{
